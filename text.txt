@@ -1,5 +1,2 @@
-welcome to the devops training
-hello friends
-hope you are doing well
-good
-
+hello 
+welcome
